@@ -1,0 +1,8 @@
+2019-05-31 00:28:43,846 : DEBUG : debug mess
+2019-05-31 00:28:43,846 : INFO : info mess
+2019-05-31 00:28:43,846 : WARNING : warn mess
+2019-05-31 00:28:43,846 : ERROR : err mess
+2019-05-31 00:28:43,846 : CRITICAL : critical mess
+2019-05-31 00:40:58,254 WARNI [root:13] warn mess
+2019-05-31 00:40:58,254 ERROR [root:14] err mess
+2019-05-31 00:40:58,254 CRITI [root:15] critical mess

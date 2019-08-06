@@ -1,0 +1,6 @@
+id,host,groupname,username,port
+4,192.168.32.200,remote,,3306
+5,192.168.32.201,remote,,22
+6,192.168.32.202,remote,zxw,22
+7,192.168.32.203,remote,zxw,22
+8,192.168.32.204,remote,zxw,3306
